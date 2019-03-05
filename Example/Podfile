@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'wobbly_Example' do
+  pod 'wobbly', :path => '../'
+
+  target 'wobbly_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
