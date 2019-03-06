@@ -9,7 +9,8 @@
 Pod::Spec.new do |s|
   s.name             = 'wobbly'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of wobbly.'
+  s.summary          = 'Easy to use animations for iOS'
+  s.swift_version = '4.0'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = ' An easy to use animation library of iOS animations. As easy to use as an easy thing'
+  s.description      = ' (Animate CSS) animations for iOS. An easy to use library of iOS animations. As easy to use as an easy thing.'
 
   s.homepage         = 'https://github.com/sagaya/wobbly'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
