@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'sagaya' => 'shaggy.hafeez@gmail.com' }
-  s.source           = { :git => 'https://github.com/sagaya/wobbly.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/sagaya/Wobbly.git', :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/sagaya_hafeez'
 
   s.ios.deployment_target = '11.0'
