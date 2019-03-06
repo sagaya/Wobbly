@@ -1,0 +1,6 @@
+framework module wobbly {
+  umbrella header "wobbly-umbrella.h"
+
+  export *
+  module * { export * }
+}

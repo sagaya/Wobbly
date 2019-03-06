@@ -1,0 +1,22 @@
+{
+  "name": "wobbly",
+  "version": "0.1.0",
+  "summary": "A short description of wobbly.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sagaya/wobbly",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sagaya": "shaggy.hafeez@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/sagaya/wobbly.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "wobbly/Classes/**/*"
+}

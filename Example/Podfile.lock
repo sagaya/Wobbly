@@ -1,0 +1,16 @@
+PODS:
+  - wobbly (0.1.0)
+
+DEPENDENCIES:
+  - wobbly (from `../`)
+
+EXTERNAL SOURCES:
+  wobbly:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  wobbly: 73b0458781c4aabf7bc0d5d2f802661291f16330
+
+PODFILE CHECKSUM: 65873b535b045c045799490aabccdaa557283b69
+
+COCOAPODS: 1.6.0.beta.2
