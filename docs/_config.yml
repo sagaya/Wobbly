@@ -9,7 +9,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Wobbly                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Just-add-water iOS animation wobbly is a bunch of cool, fun, and easy to use iOS animations for you to use in your projects. Animation types taken from Animate CSS (Animate CSS for iOS ♨️).
+app_description                           : Just-add-water iOS animation wobbly is a bunch of cool, fun, and easy to use iOS animations for you to use in your projects. Animation types taken from Animate CSS (Animate CSS for iOS 👻).
 
 enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
