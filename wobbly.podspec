@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'wobbly'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'Easy to use animations for iOS'
   s.swift_version = '4.0'
 
@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
 
   s.description      = ' (Animate CSS) animations for iOS. An easy to use library of iOS animations. As easy to use as an easy thing.'
 
-  s.homepage         = 'https://github.com/sagaya/wobbly'
+  s.homepage         = 'https://github.com/sagaya/Wobbly'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'sagaya' => 'shaggy.hafeez@gmail.com' }
