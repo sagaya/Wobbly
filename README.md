@@ -5,6 +5,9 @@
 [![License](https://img.shields.io/cocoapods/l/wobbly.svg?style=flat)](https://cocoapods.org/pods/wobbly)
 [![Platform](https://img.shields.io/cocoapods/p/wobbly.svg?style=flat)](https://cocoapods.org/pods/wobbly)
 
+![Screenshot](wobble.png)
+
+
 [Wobbly](https://sagaya.github.io/Wobbly) 
 
 Just-add-water iOS animation
