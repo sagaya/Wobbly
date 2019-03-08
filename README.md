@@ -8,7 +8,7 @@
 ![Screenshot](wobble.png)
 
 
-[See Wobbly in action](https://sagaya.github.io/Wobbly) 
+[See Wobbly in action (examples)](https://sagaya.github.io/Wobbly) 
 
 Just-add-water iOS animation
 
