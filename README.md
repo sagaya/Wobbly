@@ -14,7 +14,7 @@ Just-add-water iOS animation
 
 `wobbly`  is a bunch of cool, fun, and easy to use iOS animations for you to use in your projects. Animation types taken from [Animate CSS](https://daneden.github.io/animate.css/)  (Animate CSS for iOS 👻)
 
-![DEMO](demo.gif)
+![DEMO](demo.gif | width=400)
 
 
 ## Installation
