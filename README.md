@@ -26,7 +26,8 @@ pod 'wobbly'
 ```
 
 ## Usage
-To use wobbly in your, simply install it through `cocoapods` or drag and drop the wobbly folder into your project,  and simply call the type of animation you want on any type of view 
+To use wobbly in your, simply install it through `cocoapods` or drag and drop the wobbly folder into your project,  and simply call the type of animation you want on any type of view.
+Yea just one step to use 👻
 ```swift
 view.bounce()
 
