@@ -10,7 +10,7 @@
 
 [See Wobbly in action (examples)](https://sagaya.github.io/Wobbly) 
 
-Just-add-water iOS animation
+Add a drop of honey 🍯  to your project 
 
 `wobbly`  has a bunch of cool, fun, and easy to use iOS animations for you to use in your projects. Animation types taken from [Animate CSS](https://daneden.github.io/animate.css/)  (Animate CSS for iOS 👻)
 
